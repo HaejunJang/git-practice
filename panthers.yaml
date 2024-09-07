@@ -3,10 +3,14 @@ team: Panthers
 manager: Sebastian
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 coach: Shirley
 =======
 coach: Raymond
 >>>>>>> b1601fb (Edit Panthers)
+=======
+coach: Raymond
+>>>>>>> conflict-2
 
 members:
 - Violet
